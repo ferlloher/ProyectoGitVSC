@@ -16,7 +16,7 @@ public class Tareas{
 
         int suma=x+b;
 
-        System.out.println("El resultado de la suma es: "+suma);
+        System.out.println("El resultado de la suma de " + x + " y "+ b+"es:"+suma);
 
 
     }
